@@ -1,6 +1,6 @@
 # tictactoewin
 
-***⚠[FOR INTERNAL USE ONLY]🚫***
+***⚠[FOR INTERNAL USE ONLY]⛔***
 
 A simple Tic-Tac-Toe game
 
