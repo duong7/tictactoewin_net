@@ -1,4 +1,4 @@
-# tictactoewin
+# TicTacToeWin
 
 ***⚠[FOR INTERNAL USE ONLY]⛔***
 
